@@ -428,7 +428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: .301470578, b: .301470578, a: 1}
+  m_Color: {r: 1, g: .682758629, b: 0, a: 1}
   m_FontData:
     m_Font: {fileID: 12800000, guid: 2ab56332801f15248af3f4ceada413d8, type: 3}
     m_FontSize: 80
@@ -441,7 +441,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BLOCK SMASHER!!!
+  m_Text: Half-Life Smasher
 --- !u!222 &696305316
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -777,7 +777,7 @@ AudioSource:
   m_GameObject: {fileID: 2109396580}
   m_Enabled: 1
   serializedVersion: 3
-  m_audioClip: {fileID: 8300000, guid: 5ff737cc9a771eb43854c06762483fe9, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8e603d7fbd6e46448939c524e1aabe3f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: .25
   m_Pitch: 1
