@@ -56,6 +56,7 @@ MonoBehaviour:
   - {fileID: 21300004, guid: 958fbd43d7567644abb6f8bc9da13b28, type: 3}
   - {fileID: 21300006, guid: 958fbd43d7567644abb6f8bc9da13b28, type: 3}
   crack: {fileID: 8300000, guid: c40ec9f5c2c8e5b449f1c19ece163955, type: 3}
+  smoke: {fileID: 119864, guid: 5fd9f9230a4eca2479fc4490faf66858, type: 2}
 --- !u!212 &21244036
 SpriteRenderer:
   m_ObjectHideFlags: 1
